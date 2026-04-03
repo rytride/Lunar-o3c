@@ -1,0 +1,1 @@
+grab resources and restore in sayodevice software. make sure to select all.

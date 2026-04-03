@@ -1,0 +1,1 @@
+follow all images inside the sayodevice driver after restoring all from the resources.sayobak file.
