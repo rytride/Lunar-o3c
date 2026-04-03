@@ -1,5 +1,6 @@
 # Lunar-o3c
-Configuration files for the sayodevice O3C.
+Configuration files for the sayodevice O3C. configs may not work since these have been made in the linux driver
+
 
 # how to import:
 
