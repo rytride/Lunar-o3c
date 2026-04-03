@@ -11,4 +11,8 @@ Configuration files for the sayodevice O3C.
       
 4 : restore, then select your downloaded file. (create a backup of your current configuraton if youd like.) 
 
-5 : finished.
+5 : follow the images provided to create all the pages.
+
+6 : Finished. now customize other things like keybinds and key settings for yourself.
+
+# STILL WORK IN PROGRESS. AS OF NOW THIS REPO HAS ONLY ONE CONFIG - THE MAIN LUNAR CONFIG. "lunar w4v3s"
